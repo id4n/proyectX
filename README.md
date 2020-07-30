@@ -22,5 +22,6 @@ Este proyecto tiene como fin ayudar a la empresa a mejorar su forma de trabajo y
 
 A diferencia de estas páginas, nuestro proyecto no solo sera informativa, sino que el usuario podra empezar, a travez de formularios, el proceso de documentación para la exportación del producto pedido.
 
-
+# Objetivo general
+Ayudar a la empresa a atraer clientes al negocio y facilitar el proceso de documentación para las exportacion del producto
 
