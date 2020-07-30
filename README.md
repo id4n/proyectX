@@ -30,4 +30,5 @@ Ayudar a la empresa a atraer clientes al negocio y facilitar el proceso de docum
 * Mostrar las lineas de contacto para el usuario
 * Mostrar descripción de la empresa
 * Permitir al usuario editar y enviar el formulario de los datos para agilizar el proceso de la documentación a la empresa.
+* Permitir al usuario la cotización de su pedido
 
