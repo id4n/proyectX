@@ -31,9 +31,14 @@ Ayudar a la empresa a atraer clientes al negocio y facilitar el proceso de docum
 * Mostrar descripción de la empresa
 * Permitir al usuario editar y enviar el formulario de los datos para agilizar el proceso de la documentación a la empresa.
 
+
+# Modelo de negocio
+![canvas](https://i.imgur.com/OsJUKoH.png)
+
 # Descripción de la aplicación
 El usuario podrá digitalizar su datos personales en el caso de persona natural, y los datos de su compañía si este es el caso, además podrá cotizar su pedido, esta información se guardará en una base de datos en la nube que será enviada directamente a la empresa de exportación.
 
 # Bibliografía
 * https://es.wikipedia.org/wiki/Exportación
+
 
