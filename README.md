@@ -31,3 +31,6 @@ Ayudar a la empresa a atraer clientes al negocio y facilitar el proceso de docum
 * Mostrar descripción de la empresa
 * Permitir al usuario editar y enviar el formulario de los datos para agilizar el proceso de la documentación a la empresa.
 
+# Descripción de la aplicación
+El usuario podra digitalizar sus datos basicos y los de su pedido. Esta información se guardara en una base de datos en la nube, llamada azure, y sera enviada a la empresa de exportaciones.
+
