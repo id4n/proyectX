@@ -1,6 +1,6 @@
 # ProyectX
 Repositorio del proyecto de la clase de Desarrollo Web Avanzado
-# Objetivos especificos
+# Objetivos específicos
 * Mostrar lo que ofrece la empresa
 * Mostrar las lineas de contacto para el usuario
 * Mostrar descripción de la empresa
