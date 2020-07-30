@@ -35,10 +35,17 @@ Ayudar a la empresa a atraer clientes al negocio y facilitar el proceso de docum
 # Modelo de negocio
 ![canvas](https://i.imgur.com/OsJUKoH.png)
 
+
+# Mockups
+Link para el acceso al mockup realizado en Marvelapp (Flecha a la derecha para ver las demás pestañas)
+
+https://marvelapp.com/prototype/b45a56i
+
 # Descripción de la aplicación
 El usuario podrá digitalizar su datos personales en el caso de persona natural, y los datos de su compañía si este es el caso, además podrá cotizar su pedido, esta información se guardará en una base de datos en la nube que será enviada directamente a la empresa de exportación.
 
 # Bibliografía
 * https://es.wikipedia.org/wiki/Exportación
+ 
 
 
