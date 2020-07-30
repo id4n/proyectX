@@ -25,3 +25,9 @@ A diferencia de estas páginas, nuestro proyecto no solo sera informativa, sino 
 # Objetivo general
 Ayudar a la empresa a atraer clientes al negocio y facilitar el proceso de documentación para las exportacion del producto
 
+# Objetivos específicos
+* Mostrar lo que ofrece la empresa
+* Mostrar las lineas de contacto para el usuario
+* Mostrar descripción de la empresa
+* Permitir al usuario editar y enviar el formulario de los datos para agilizar el proceso de la documentación a la empresa.
+
