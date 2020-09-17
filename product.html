@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/product.css">
+    <link href="https://fonts.googleapis.com/css2?family=Archivo&family=Hind+Vadodara&family=Righteous&family=Signika&display=swap" rel="stylesheet">
+    <title>Producto</title>
+</head>
+<body>
+    <header>
+        <div class="header minWidth">
+            <div class="language">
+                <button class="btn btn_dark">Language</button>
+            </div>
+            <h1 class="title_name">MADEREXPO</h1>
+            <div class="navBar">
+                <a href="start.html">Inicio</a>
+                <a href="who.html">Nuestras operaciones</a>
+                <a href="">Desarrollo sostenible</a>
+                <a href="product.html" id="position">Nuestro producto</a>
+                <a href="">Contáctanos</a>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div>
+            <img src="img/teca-bloques-slide.jpg" alt="" class="img_complete minWidth">
+        </div>
+        <div class="container_definition">
+            <h1 class="subtitle">Madera Teca</h1>
+            <p class="paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In explicabo consequuntur labore natus nisi, debitis qui esse! Nemo veniam recusandae enim, quam officia voluptate est voluptas repellat rem porro exercitationem!</p>
+            <img src="img/teca-bloques.jpg" alt="">
+        </div>
+        <div>
+            <form>
+                <label for="CName" class="subtitle">Nombre completo:</label>
+                <input type="text" name="Cname" id="">
+                <label for="CEnterprise" class="subtitle">Nombre de la empresa:</label>
+                <input type="text" name="CEnterprise" id="">
+                <label for="CCountry" class="subtitle">País:</label>
+                <input list="Countries" name="CCountry" id="">
+                <datalist id="Countries">
+                    <option value="China">
+                    <option value="España">
+                    <option value="Estados Unidos">
+                    <option value="Korea del Sur">
+                </datalist>
+                <label for="CEmail" class="subtitle">Dirección de correo electronico:</label>
+                <input type="email" name="CEmail" id="">
+                <label for="CPhone" class="subtitle">Teléfono:</label>
+                <input type="text" name="CPhone" id="">
+                <label for="Cespesor" class="subtitle">Espesor de la madera(mm):</label>
+                <input list="Espesor" name="Cespesor" id="">
+                <datalist id="Espesor">
+                    <option value="75">
+                    <option value="100">
+                    <option value="125">
+                    <option value="150">
+                </datalist>
+                <label for="CAncho" class="subtitle">Ancho de la madera(mm):</label>
+                <input list="Ancho" name="Cancho" id="">
+                <datalist id="Ancho">
+                    <option value="75">
+                    <option value="100">
+                    <option value="125">
+                    <option value="150">
+                </datalist>
+                <label for="CLargo" class="subtitle">Largo de la madera(mm):</label>
+                <input type="number" name="CLargo" id="">
+                <label for="CComentarios">Comentarios Adicionales (opcional):</label>
+                <textarea name="CComentarios" id="" cols="30" rows="10"></textarea>
+                <input type="submit" value="Enviar datos" class="btn btn_dark">
+            </form>
+        </div>
+    </main>
+</body>
+</html>
