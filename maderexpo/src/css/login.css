@@ -1,0 +1,104 @@
+/*Variable globales*/
+:root{
+    --color-white: #F2F2F2;
+    --color-black: #0D0D0D;
+    --color-yellow-light:#F2E8B3;
+    --color-yellow:#F2D544;
+    --color-yellow-dark:#F2CF63;
+    --title-name:'Righteous', cursive;
+    --title: 'Archivo', sans-serif;
+    --subtitle: 'Hind Vadodara', sans-serif;
+    --paragraph: 'Signika', sans-serif;
+}
+
+*{
+    margin:0;
+}
+/* Configuración section */
+#signIn{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 900px;
+    min-height: 400px;
+}
+.signIn_form{
+    width: 30%;
+    min-height: 11cm;
+    background-color: var(--color-yellow);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 50px 0;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 0px var(--color-black);
+}
+#signIn{
+    background-color: var(--color-white);
+}
+/* Configuración tamaño y fuente de los elementos del div principal */
+.signIn_form > *{
+    width: 80%;
+    font-size: 18px;
+    font-family: var(--paragraph);
+}
+/* Titulo */
+.signIn_form h1{
+    font-size: 40px;
+    font-family: var(--title-name);
+    text-align: center;
+}
+h1{
+    color: var(--color-black);
+}
+/* Parrafo */
+.signIn_form p{
+    text-align: center;
+}
+/* inputs */
+input{
+    border: 1px solid var(--color-white);
+    border-radius: 5px;
+    width: 287px;
+    height: 45px;
+    padding-left: 10px;
+}
+/* Botones */
+button{
+    height: 52px;
+}
+/* configuración div de links */
+.links{
+    display: flex;
+    flex-wrap: wrap;
+}
+.links a{
+    width: auto;
+    text-decoration: none;
+    transition: 1s;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+    color: var(--color-gray);
+}
+.signIn_form .links a:hover{
+    background-size: 100% 2px;
+}
+.signIn_form .links{
+    justify-content: flex-start;
+}
+
+/*después de estar logueado*/
+.login_logeado{
+    width: 90%;
+}
+.login_logeado .part1{
+    display: flex;
+    justify-content: space-between;
+}
