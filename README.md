@@ -1,6 +1,9 @@
 # Comandos para su ejecución
+
 npm install --save reactfire firebase
+
 npm install --save google-map-react
+
 npm install --save react-router-dom
 
 npm start
